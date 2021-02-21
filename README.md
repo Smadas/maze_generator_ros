@@ -14,3 +14,5 @@ To change parameters of the maze such as wall thickness, height and length, star
 Other related repositories:
 <br>Smadas/irobot_create_ros - irobot create urdf, sdf description
 <br>Smadas/create_control_ros - ROS package prepared to insert your algorithm for controling simulate iRobot create
+
+Just make sure that your workspace is called catknin_ws otherwise change it in the code.
