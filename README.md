@@ -16,3 +16,7 @@ Other related repositories:
 <br>Smadas/create_control_ros - ROS package prepared to insert your algorithm for controling simulate iRobot create
 
 Just make sure that your workspace is called catknin_ws otherwise change it in the code.
+
+You can use pikoPixel to draw a new maze.
+
+Oh, sorry for the mishap about the different naming of repo and actual ROS package. Someone is going to damn me real bad.
